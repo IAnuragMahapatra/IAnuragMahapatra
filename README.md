@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Anurag Mahapatra!
+# Hi there, I'm Anurag Mahapatra! 👋 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Computer+Science+Undergrad;Machine+Learning+Enthusiast;Python+Web-Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 </div>
 
@@ -84,7 +84,7 @@ class AnuragMahapatra:
 - 🌱 Learning **Cloud Architecture & DevOps**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, Machine Learning, Web Development**
-- ⚡ Fun fact: **I debug with coffee ☕**
+- ⚡ Fun fact: **I love pc gaming 🎮**
 
 
 ## 📫 Connect With Me
