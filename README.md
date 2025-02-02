@@ -12,7 +12,7 @@ class AnuragMahapatra:
         self.name = "Anurag Mahapatra"
         self.education = "B.Tech CSE @ VSSUT (2023-27)"
         self.role = "Software Developer"
-        self.languages = ["Python", "Java", "C" , "C++", "JavaScript"]
+        self.languages = ["Python", "Java", "C" , "C++"]
         self.interests = ["Machine Learning", "Web Development", "Open Source"]
         
     def say_hi(self):
