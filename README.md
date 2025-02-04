@@ -94,14 +94,16 @@ class AnuragMahapatra:
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anurag-mahapatra-7336892b0/)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail)](mailto:anurag2005om@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/IAnuragMahapatra)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-white?style=for-the-badge&logo=github)](https://github.com/IAnuragMahapatra)
   
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IAnuragMahapatra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  
+  <img src="https://komarev.com/ghpvc/?username=IAnuragMahapatra&label=Profile%20Views&color=grey&style=flat" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=IAnuragMahapatra" alt="Profile Views">
+  <img src="https://ghcounter.com/count?s=IAnuragMahapatra" alt="Profile Views">
+
   <h4>🎯 If you like my work, consider giving my repos a ⭐ to show some ❤️</h4>
 </div>
