@@ -101,9 +101,6 @@ class AnuragMahapatra:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IAnuragMahapatra&label=Profile%20Views&color=grey&style=flat" alt="Profile Views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=IAnuragMahapatra" alt="Profile Views">
-  <img src="https://ghcounter.com/count?s=IAnuragMahapatra" alt="Profile Views">
-
+  <img src="https://komarev.com/ghpvc/?username=IAnuragMahapatra&label=Profile%20Views&color=orange&style=flat" alt="Profile Views" />
   <h4>🎯 If you like my work, consider giving my repos a ⭐ to show some ❤️</h4>
 </div>
