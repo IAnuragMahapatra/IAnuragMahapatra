@@ -75,7 +75,7 @@ class AnuragMahapatra:
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAnuragMahapatra&theme=tokyonight" alt="GitHub Profile Summary" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IAnuragMahapatra&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IAnuragMahapatra&theme=tokyonight&utcOffset=8" alt="Most Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IAnuragMahapatra&theme=tokyonight&utcOffset=5.5" alt="Most Productive Time" />
 </div>
 
 
