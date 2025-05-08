@@ -2,7 +2,7 @@
 
 # 👾🛰️Anurag Mahapatra🔮🪄
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=800&color=4AB1D8&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Artificial+Intelligence;Software+Engineering;;Web+Dev+%7C+Competitive+Programming)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=800&color=4AB1D8&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Artificial+Intelligence;Software+Engineering;Web+Development+%7C+DSA)
 
 </div>
 
@@ -24,7 +24,7 @@ class AnuragMahapatra:
         self.education = "B.Tech CSE @ VSSUT (2023-27)"
         self.role = "Software Developer"
         self.languages = ["Python", "Java", "C", "C++", "JavaScript"]
-        self.interests = ["Machine Learning", "Web Development", "Open Source"]
+        self.interests = ["Machine Learning", "DevOps", "Web Development"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
@@ -64,12 +64,11 @@ class AnuragMahapatra:
 </details>
   
 
+## 📊 Analytics
 
-
-
-
-
-## 📈 GitHub Analytics
+<details>
+  <summary>Show my GitHub stats 🔍</summary>
+<br>
 <div align="center">
   <img height="265em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAnuragMahapatra&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
   <br/>
@@ -77,13 +76,14 @@ class AnuragMahapatra:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IAnuragMahapatra&theme=tokyonight" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IAnuragMahapatra&theme=tokyonight&utcOffset=5.5" alt="Most Productive Time" />
 </div>
+</details>
+
 
 
 
 ## 🎯 Current Focus
 - 🔭 Working on **Machine Learning Projects**
-- 🌱 Learning **Cloud Architecture & DevOps**
-- 👯 Looking to collaborate on **Open Source Projects**
+- 🌱 Learning **MLOps & Agentic AI Systems**
 - 💬 Ask me about **Python, Machine Learning, Web Development**
 - ⚡ Fun fact: **I love pc gaming 🎮**
 
