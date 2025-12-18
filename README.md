@@ -66,9 +66,9 @@ anurag = AnuragMahapatra()
 <summary><strong>Services & Tools</strong></summary>
 <br>
 
-**Amazon Web Services:** EC2, S3, Lambda, SageMaker  
-**Google Cloud Platform:** Cloud Storage, Compute Engine, BigQuery, Vertex AI  
-**MLOps:** Docker, GitHub Actions (CI/CD), MLflow, K3s (basic orchestration)  
+- **Amazon Web Services:** EC2, S3, Lambda, SageMaker  
+- **Google Cloud Platform:** Cloud Storage, Compute Engine, BigQuery, Vertex AI  
+- **MLOps:** Docker, GitHub Actions (CI/CD), MLflow, K3s (basic orchestration)  
 </details>
 
 
@@ -108,14 +108,14 @@ anurag = AnuragMahapatra()
 
 ## 🏆 Certifications
 
-🎓 **NVIDIA Certified**: Fundamentals of Accelerated Computing with CUDA Python  
-📊 **IBM SkillsBuild**: Data Analytics Professional
+- 🎓 **NVIDIA Certified**: Fundamentals of Accelerated Computing with CUDA Python  
+- 📊 **IBM SkillsBuild**: Data Analytics Professional
 
 
 ## 🧑‍💼 Leadership & Experience
 
-🗂️ **Secretary**, Department of Computer Science and Engineering, VSSUT  
-🚀 **Cloud and DevOps Lead**, Enigma, VSSUT
+- 🗂️ **Secretary**, Department of Computer Science and Engineering, VSSUT  
+- 🚀 **Cloud and DevOps Lead**, Enigma, VSSUT
 
 ## ⚡ Beyond Code
 
