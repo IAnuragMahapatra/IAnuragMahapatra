@@ -1,15 +1,20 @@
 <div align="center">
 
+<img align="left" width="150"
+     src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+
+
+<img align="right" width="150"
+     src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+
 # 👾 Anurag Mahapatra 🚀
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=800&color=4AB1D8&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+%7C+Full+Stack+Developer;Building+AI+Systems+%7C+Exploring+MLOps;MERN+Stack+%7C+PyTorch+%7C+Cloud+Computing;Gaming+Enthusiast+🎮)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=800&color=4AB1D8&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+%7C+Full+Stack+Developer;Building+AI+Systems+%7C+Exploring+MLOps;MERN+Stack+%7C+PyTorch+%7C+Cloud+Computing)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-mahapatra-7336892b0/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag2005om@gmail.com)
 
 </div>
-
-
 
 ## 🎮 About Me
 
@@ -119,6 +124,12 @@ anurag = AnuragMahapatra()
 🗂️ **Secretary**, Department of Computer Science and Engineering, VSSUT  
 🚀 **Cloud and DevOps Lead**, Enigma, VSSUT
 
+## ⚡ Beyond Code
+
+- 🎮 **PC Gaming** - Soulslikes, Action RPGs and Cinematic Adventures
+- 🔧 **Tinkering** - Hardware builds and Linux systems
+- 📚 **Learning** - AI research papers and emerging tech
+- 🎵 **Music** - Indie pop, acoustic romance, modern pop, soft rock, fusion
 
 ## 💬 Let's Talk About
 ML · DL · Full-stack · Cloud · PC Gaming 🎮
