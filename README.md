@@ -1,12 +1,5 @@
 <div align="center">
 
-<img align="left" width="80"
-     src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
-
-
-<img align="right" width="80"
-     src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
-
 # 👾 Anurag Mahapatra 🚀
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=800&color=4AB1D8&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+%7C+Full+Stack+Developer;Building+AI+Systems+%7C+Exploring+MLOps;MERN+Stack+%7C+PyTorch+%7C+Cloud+Computing)
