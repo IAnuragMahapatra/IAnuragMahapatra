@@ -16,7 +16,7 @@
 class AnuragMahapatra:
     def __init__(self):
         self.name = "Anurag Mahapatra"
-        self.education = "B.Tech CSE @ VSSUT (2023-27) | CGPA: 8.9"
+        self.education = "B.Tech CSE @ VSSUT (2023-27)"
         self.role = "ML Engineer | Full Stack Developer"
 
     def interests(self):
