@@ -117,13 +117,11 @@ ML · DL · Full-stack · Cloud · PC Gaming 🎮
 
 <br><br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IAnuragMahapatra&label=Profile%20Views&color=4AB1D8&style=flat-square" alt="Profile Views" />
-<br><br>
-  <p><i>Most projects are private until they're repo-worthy.</i></p>
-
+  <img src="https://komarev.com/ghpvc/?username=IAnuragMahapatra&label=Visitors&color=6c3baa" alt="Visitors" />
+<br>
   <h4>Interested in collaborating? Let's connect! ⭐</h4>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=100&section=footer&animation=twinkling" />
 </div>
