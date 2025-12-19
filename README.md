@@ -4,8 +4,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=800&color=4AB1D8&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+%7C+Full+Stack+Developer;Building+AI+Systems+%7C+Exploring+MLOps;MERN+Stack+%7C+PyTorch+%7C+Cloud+Computing)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-mahapatra-7336892b0/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag2005om@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/anurag-mahapatra-7336892b0/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag2005om@gmail.com) 
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=x&logoColor=black)](https://x.com/AnuragM_36) -->
 
 </div>
 
@@ -17,7 +18,7 @@ class AnuragMahapatra:
         self.name = "Anurag Mahapatra"
         self.education = "B.Tech CSE @ VSSUT (2023-27) | CGPA: 8.9"
         self.role = "ML Engineer | Full Stack Developer"
-        
+
     def interests(self):
         return [
             "🧠 Machine Learning & Deep Learning",
@@ -32,47 +33,34 @@ anurag = AnuragMahapatra()
 
 ### 🧠 AI/ML & Data Science
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-2ECC71?style=for-the-badge&logo=huggingface)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F6F?style=for-the-badge&logo=huggingface)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
-
-
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### 🌐 Full Stack Development
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nextjs,fastapi,django,mysql,postgres" />
 
 ### ☁️ Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=232F3E)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions" />
 
 <details>
 <summary><strong>Services & Tools</strong></summary>
 <br>
 
-- **Amazon Web Services:** EC2, S3, Lambda, SageMaker  
-- **Google Cloud Platform:** Cloud Storage, Compute Engine, BigQuery, Vertex AI  
-- **MLOps:** Docker, GitHub Actions (CI/CD), MLflow, K3s (basic orchestration)  
+- **Amazon Web Services:** EC2, S3, Lambda, SageMaker
+- **Google Cloud Platform:** Cloud Storage, Compute Engine, BigQuery, Vertex AI
+- **MLOps:** Docker, GitHub Actions (CI/CD), MLflow, K3s (basic orchestration)
+
 </details>
 
+<!-- <img src="https://skillicons.dev/icons?i=opencv,anaconda,vscode,postman,figma,notion,md,arch,bash,git,github,nodejs,nestjs,graphql,redis,nginx,prisma,ts,js,html,css,tailwind,redux,vite,webpack" /> -->
 
 ## 📊 GitHub Stats
+
 <details>
   <summary><strong>Click to expand</strong></summary>
   <br/>
@@ -108,13 +96,12 @@ anurag = AnuragMahapatra()
 
 ## 🏆 Certifications
 
-- 🎓 **NVIDIA Certified**: Fundamentals of Accelerated Computing with CUDA Python  
+- 🎓 **NVIDIA Certified**: Fundamentals of Accelerated Computing with CUDA Python
 - 📊 **IBM SkillsBuild**: Data Analytics Professional
-
 
 ## 🧑‍💼 Leadership & Experience
 
-- 🗂️ **Secretary**, Department of Computer Science and Engineering, VSSUT  
+- 🗂️ **Secretary**, Department of Computer Science and Engineering, VSSUT
 - 🚀 **Cloud and DevOps Lead**, Enigma, VSSUT
 
 ## ⚡ Beyond Code
@@ -125,6 +112,7 @@ anurag = AnuragMahapatra()
 - 🎵 **Music** - Indie pop, acoustic romance, modern pop, soft rock, fusion
 
 ## 💬 Let's Talk About
+
 ML · DL · Full-stack · Cloud · PC Gaming 🎮
 
 <br><br>
@@ -132,7 +120,7 @@ ML · DL · Full-stack · Cloud · PC Gaming 🎮
   <img src="https://komarev.com/ghpvc/?username=IAnuragMahapatra&label=Profile%20Views&color=4AB1D8&style=flat-square" alt="Profile Views" />
 <br><br>
   <p><i>Most projects are private until they're repo-worthy.</i></p>
-  
+
   <h4>Interested in collaborating? Let's connect! ⭐</h4>
 </div>
 
