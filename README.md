@@ -123,5 +123,6 @@ ML · DL · Full-stack · Cloud · PC Gaming 🎮
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=100&section=footer&animation=twinkling" />
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=100&section=footer&animation=twinkling" /> -->
+  <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 </div>
