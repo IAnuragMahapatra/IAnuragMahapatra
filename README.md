@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👾 Anurag Mahapatra 🚀
+# 👾 Anurag Mahapatra 🐈‍⬛
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=800&color=4AB1D8&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+%7C+Full+Stack+Developer;Building+AI+Systems+%7C+Exploring+MLOps;MERN+Stack+%7C+PyTorch+%7C+Cloud+Computing)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=800&color=f5e0dc&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+%7C+Full+Stack+Developer;Building+AI+Systems+%7C+Exploring+MLOps;MERN+Stack+%7C+PyTorch+%7C+Cloud+Computing)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/anurag-mahapatra-7336892b0/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag2005om@gmail.com) 
