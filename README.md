@@ -67,7 +67,7 @@ anurag = AnuragMahapatra()
 
   <div align="center">
     <img height="300em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAnuragMahapatra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+      src="https://stats-github-readme.vercel.app/api/top-langs/?username=IAnuragMahapatra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
       alt="Top Languages" />
   </div>
 
